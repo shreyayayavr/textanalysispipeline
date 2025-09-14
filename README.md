@@ -1,5 +1,3 @@
-# BlackOffer Internship Assessment
-This project is part of the BlackOffer Internship Assessment. It consists of two main Python scripts that:
 1. **Extract Articles** from a list of URLs provided in an Excel file.
 2. **Analyze Extracted Articles** using linguistic metrics, sentiment dictionaries, and stop words filtering.
 
@@ -81,5 +79,6 @@ Dependencies[requirements.txt]:
 - requests
 - beautifulsoup4
 - nltk
+
 
 
